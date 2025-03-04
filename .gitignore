@@ -1,0 +1,13 @@
+
+test*.*
+*.txt
+AnalysisResults/
+.DS_Store
+
+**/__pycache__
+
+MEP_AE.*/
+*/.*swp
+
+
+*log*
